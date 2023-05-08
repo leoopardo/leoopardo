@@ -1,6 +1,6 @@
 ### Hi there my name is Leonardo 👋
 
-- 💼 I’m currently working with front-end
+- 💼 Front End Developer at Paybrokers
 - 📫 How to reach me: leo.san9@hotmail.com
 
 <div align="center">
