@@ -1,6 +1,6 @@
 ### Hi there my name is Leonardo 👋
 
-- 💼 Front End Developer at PDV365
+- 💼 Full-stack Developer at Totalpass
 - 📫 How to reach me: leo.san9@hotmail.com
 
  ### languages I use: 
